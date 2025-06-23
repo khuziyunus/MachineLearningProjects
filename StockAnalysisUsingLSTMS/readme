@@ -1,0 +1,6 @@
+run this command to ensue the code runs properly
+
+pip install pandas numpy matplotlib mplfinance scikit-learn tensorflow requests beautifulsoup4
+
+run the ppsxScrapper.py to get the data and  PPL Stock Analysis, Candlestick Visualization & Price Forecasting.ipynb
+forthe remaining reults
