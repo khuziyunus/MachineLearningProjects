@@ -42,7 +42,11 @@ The model uses grayscale CT scan images from:
     <img src="https://img.shields.io/badge/View%20Dataset%20on-Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Dataset">
   </a>
 </p>
+
 ---
+
 ### 🎨 Sample Output
 
 <p align="center"> <img src="outputs/sampleOutput.png" width="400" alt="Generated Chest CT Scan"> </p>
+
+---
